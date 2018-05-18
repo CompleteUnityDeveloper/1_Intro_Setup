@@ -1,4 +1,4 @@
-# Complete Unity Developer 2D - Section 1 - Intro & Setup
+﻿# Complete Unity Developer 2D - Section 1 - Intro & Setup
 
 This is the [Complete Unity Developer](http://gdev.tv/cudgithub) - one of the most successful e-learning courses on the internet! Completely re-worked from scratch with brand-new projects and our latest teaching techniques. You will benefit from the fact we have already taught over 360,336 students game development, many shipping commercial games as a result.
 
@@ -25,3 +25,17 @@ Here are the lectures of the course for this section. In future sections you wil
 
 **After watching (learning outcomes)…**
 Recall why you were motivated to buy this course.
+
+
+### 2 Download Unity & Visual Studio ###
+
+**In this video (objectives)…**
+
+1. Navigate to Unity's download page
+2. Download Unity Hub
+3. Select the latest version of Unity to download
+4. Select your download options from the list
+
+
+**After watching (learning outcomes)…**
+Get Unity and Visual Studio downloading.
