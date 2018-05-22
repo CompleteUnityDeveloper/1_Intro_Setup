@@ -83,3 +83,15 @@ Understand what difference to look for if on a Mac.
 
 **After watching (learning outcomes)…**
 Exactly how and where to get help and support.
+
+
+### 6 Section Wrap Up ###
+
+**In this video (objectives)…**
+
+1. Great work on getting set up
+2. Let's dive into the next section.
+
+
+**After watching (learning outcomes)…**
+You'll be set up and ready to go.
