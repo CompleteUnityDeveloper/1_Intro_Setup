@@ -73,7 +73,7 @@ Understand what difference to look for if on a Mac.
 
 **In this video (objectives)…**
 
-1. Options for getting help and support
+1. Options for getting help & support
 2. Using the Udemy Q&A section
 3. GameDev.tv community forum
 4. Discord chat server
