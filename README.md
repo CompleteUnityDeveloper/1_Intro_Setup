@@ -62,7 +62,7 @@ Create a script and print a simple statement to the Unity console.
 
 1. We use PC mostly throughout the course
 2. General differences you'll see on Mac versus PC
-3. Specific Unity & Visual Studio differences you'll see on a Mac.
+3. Specific Unity and Visual Studio differences you'll see on a Mac.
 
 
 **After watching (learning outcomes)…**
