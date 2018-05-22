@@ -5,7 +5,7 @@ This is the [Complete Unity Developer](http://gdev.tv/cudgithub) - one of the mo
 You're welcome to download, fork or do whatever else legal with all the files! The real value is in our huge, high-quality online tutorials that accompany this repo. You can check out the course here: [Complete Unity Developer](http://gdev.tv/cudgithub)
 
 ## In This Section
-Get Unity 2018 with Unity Hub, and Visual Studio downloading on Mac and PC. Test it works, and learn how to us the course (Section REF: IS_CUD)
+Get Unity 2018 with Unity Hub, and Visual Studio downloading on Mac and PC. Test it works, and learn how to us the course (Section REF: IN_CUD)
 
 ## How To Build / Compile
 
@@ -39,3 +39,47 @@ Recall why you were motivated to buy this course.
 
 **After watching (learning outcomes)…**
 Get Unity and Visual Studio downloading.
+
+
+### 3 Your First Code ###
+
+**In this video (objectives)…**
+
+1. Create a new Unity project
+2. Create a .cs script
+3. Add a simple print statement
+4. Attach script to camera game object
+5. Run script and see our statement printed to the console
+
+
+**After watching (learning outcomes)…**
+Create a script and print a simple statement to the Unity console.
+
+
+### 4 Notes For Mac Users ###
+
+**In this video (objectives)…**
+
+1. We use PC mostly throughout the course
+2. General differences you'll see on Mac versus PC
+3. Specific Unity & Visual Studio differences you'll see on a Mac.
+
+
+**After watching (learning outcomes)…**
+Understand what difference to look for if on a Mac.
+
+
+### 5 Community & Support ###
+
+**In this video (objectives)…**
+
+1. Options for getting help and support
+2. Using the Udemy Q&A section
+3. GameDev.tv community forum
+4. Discord chat server
+5. Facebook community group
+6. Google slides and close captions.
+
+
+**After watching (learning outcomes)…**
+Exactly how and where to get help and support.
